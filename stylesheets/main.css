@@ -1,6 +1,21 @@
+body{
+  background-color: rgb(71, 67, 67)
+}
+
 header{
-  background-color: red;
+  background-color: rgb(201, 54, 34);
   color: white;
-  font-size: 30;
-  padding: 10
+  font-size: 27px;
+  padding-top: 10px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 10px;
+  font-family: arial;
+}
+
+#login{
+  font-size: 20px;
+  /* text-align: right; */
+  float:right;
+  margin: 10px
 }
